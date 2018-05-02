@@ -8,6 +8,6 @@ This project represents a sketch of a common first-person game and includes such
 5. Frames Per Seconds counter
 The project was made relying on the OpenGL tutorials: [learnopengl.com](https://learnopengl.com/)
 
-Innopolis city\n
-**Egor Klementev**\n
+Innopolis city
+**Egor Klementev**
 02.05.2018
